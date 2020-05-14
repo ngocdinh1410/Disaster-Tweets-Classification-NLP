@@ -14,7 +14,7 @@ Dataset: https://www.kaggle.com/c/nlp-getting-started/data
 <li>80/20 split</li>
 
 **EDA**
-
+[Bar-relevant]: https://github.com/ngocdinh1410/Disaster-Tweets-Classification-NLP/blob/master/Bar_relevant.png "Bar_relevant"
 
 
 **Topic Modeling**
